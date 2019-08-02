@@ -8,9 +8,8 @@
 
 #### A Machine Learning Model trained on American sign language Dataset to predict the letters or numbers from a picture of a hand doing a certain sign.
 
-Want a quick look and see if/how this works?
-
-Have a look here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EMvokUcPU1LJ8SvsWKLiEk9whFvVUWi3)
+*Want a quick look and see if/how this works?*
+    *Have a look here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EMvokUcPU1LJ8SvsWKLiEk9whFvVUWi3)*
 
 
 

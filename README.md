@@ -86,7 +86,7 @@
         Nothing beyond palm. Rotation doesn't matter.
         For reference, look at the picture below:
         
-        ![Here:](https://raw.githubusercontent.com/mareep-raljodid/SignLanguage_ML/master/photo.jpg)
+       ![Here:](https://raw.githubusercontent.com/mareep-raljodid/SignLanguage_ML/master/photo.jpg)
         
         photo.jpg should be predicted as R and,
         picture.jpg (file available) should be predicted as D.

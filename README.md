@@ -85,8 +85,8 @@
     2 + Full picture of the hand-sign from the fingers to palm,
         Nothing beyond palm. Rotation doesn't matter.
         For reference, look at the pictures below:
-        [Here:](https://raw.githubusercontent.com/mareep-raljodid/SignLanguage_ML/master/photo.jpg)
-        [and Here](https://raw.githubusercontent.com/mareep-raljodid/SignLanguage_ML/master/picture.jpg)
+        ![Here:](https://raw.githubusercontent.com/mareep-raljodid/SignLanguage_ML/master/photo.jpg)
+        ![and Here](https://raw.githubusercontent.com/mareep-raljodid/SignLanguage_ML/master/picture.jpg)
         
         photo.jpg should be predicted as R and,
         picture.jpg should be predicted as D.

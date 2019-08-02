@@ -74,9 +74,24 @@
      ```
     and insert the path to your picture with the extention of the picture.
 
-  + For a full re-train (CAUTION MAY TAKE 13 TO 16 HOURS!) just compile the SL_independent.py file with the training    data in same directory as the python script.
+  + For a full re-train (CAUTION MAY TAKE 13 TO 16 HOURS!) just compile the SL_independent.py file with the training    data in         same directory as the python script.
+  
     You can get the training data from this [Google Drive link](https://drive.google.com/open?id=1apmXyY8OQx68b4-2G9Mttgrml7bldWfq)
-
+    ```bash
+    python3 SL_independent.py
+    ```
+  + Best practices for the most accruate predictions:
+    1 + Black/Dark Bacnground
+    2 + Full picture of the hand-sign from the fingers to palm,
+        Nothing beyond palm. Rotation doesn't matter.
+        For reference, look at the pictures below:
+        [Here:](https://raw.githubusercontent.com/mareep-raljodid/SignLanguage_ML/master/photo.jpg)
+        [and Here](https://raw.githubusercontent.com/mareep-raljodid/SignLanguage_ML/master/picture.jpg)
+        
+        photo.jpg should be predicted as R and,
+        picture.jpg should be predicted as D.
+    
+    
 
 [![GitHub contributors](https://img.shields.io/github/contributors/mareep-raljodid/SignLanguage_ML?style=for-the-badge)](https://github.com/mareep-raljodid)
 

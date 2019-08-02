@@ -6,7 +6,7 @@
 
 
 
-## A Machine Learning Model trained on American sign language Dataset to predict the letters or numbers from a picture of a hand doing a certain sign.
+### A Machine Learning Model trained on American sign language Dataset to predict the letters or numbers from a picture of a hand doing a certain sign.
 
 Want a Fast Track look and see if/how this works?
 
@@ -62,9 +62,21 @@ Have a look here [![Open In Colab](https://colab.research.google.com/assets/cola
 
 - SL_independent.py: Full python script to self train and predict images.
 
-- SL_quickPredict: Predicts an image based on the saved model, no training required, 13 hours saved. 
-    + Again, you're welcome :) 
+- SL_quickPredict.py: Predicts an image based on the saved model, no training required, 13 hours saved. 
 
+
+
+#### Instructions:
+
+  + For a Quick Prediction of a picture you have, compile the SL_quickPredict.py using the command below:
+     
+     ```bash
+     python3 L_quickPredict.py
+     ```
+    and insert the path to your picture with the extention of the picture.
+
+  + For a full re-train (CAUTION MAY TAKE 13 TO 16 HOURS!) just compile the SL_independent.py file with the training    data in same directory as the python script.
+    You can get the training data from this [Google Drive link](https://drive.google.com/open?id=1apmXyY8OQx68b4-2G9Mttgrml7bldWfq)
 
 
 ![GitHub contributors](https://img.shields.io/github/contributors/mareep-raljodid/SignLanguage_ML?style=for-the-badge)

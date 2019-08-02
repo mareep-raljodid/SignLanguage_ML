@@ -4,9 +4,6 @@
 
 
 
-
-
-
 A Machine Learning Model trained on American sign language Dataset to predict the letters or numbers from a picture of a hand doing a certain sign.
 
 

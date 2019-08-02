@@ -64,5 +64,5 @@
 
 ![GitHub contributors](https://img.shields.io/github/contributors/mareep-raljodid/SignLanguage_ML?style=for-the-badge)
 
-##### - Developers
+##### Developers
 - [Rajdeep Bandopadhyay](https://github.com/mareep-raljodid)

@@ -12,7 +12,7 @@ A Machine Learning Model trained on American sign language Dataset to predict th
 
 - Datasets provided by Kaggle [unpublished]
 - Model based on using Convulations and Prediction using RELU activation on Gradient Descent.
-  Sparse Categorical Crossentropy
+     Sparse Categorical Crossentropy
 - Accuracy Score with validation set: 95%
 
 

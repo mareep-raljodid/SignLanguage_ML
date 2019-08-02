@@ -65,7 +65,7 @@ while zzx != "exit":
           prediction = chr((z[1]-10) + 65)
           print(prediction)
       else:
-          prediction = (z[1])
+          prediction = int(z[1])
           print(prediction)
       zzx = input("Enter exit to stop or return to keep predicting.")
 

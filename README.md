@@ -23,26 +23,26 @@
 - OS
 - Numpy
 
-* Make sure you have pip3 installed, you can do that by (for linux):
-```
-sudo apt install python3-pip
-```
+    + Make sure you have pip3 installed, you can do that by (for linux):
+    ```
+    sudo apt install python3-pip
+    ```
 
-* And this (for Mac OSX), in the python3 directory:
-```
-python3 get-pip.py
-```
+    + And this (for Mac OSX), in the python3 directory:
+    ```
+    python3 get-pip.py
+    ```
 
-* Install dependencies using the commands below (pip3 and python3 are required):
+    + Install dependencies using the commands below (pip3 and python3 are required):
 
-```bash
-pip3 install tf-nightly
-pip3 install random
-pip3 install matplotlib
-pip3 install opencv-python
-pip3 install os
-pip3 install numpy
-```
+    ```bash
+    pip3 install tf-nightly
+    pip3 install random
+    pip3 install matplotlib
+    pip3 install opencv-python
+    pip3 install os
+    pip3 install numpy
+    ```
 
 #### Information about the files present here:
 

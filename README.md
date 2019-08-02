@@ -81,9 +81,9 @@
     python3 SL_independent.py
     ```
   + Best practices for the most accruate predictions:
-    1+ Black/Dark Bacnground,
-    2+ Square aspect ratio,
-    3+ Full picture of the hand-sign from the fingers to palm,
+    + Black/Dark Bacnground,
+    + Square aspect ratio,
+    + Full picture of the hand-sign from the fingers to palm,
         Nothing beyond palm. Rotation doesn't matter.
         For reference, look at the picture below:
         

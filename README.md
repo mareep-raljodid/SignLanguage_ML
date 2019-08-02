@@ -6,7 +6,7 @@
 
 
 
-### A Machine Learning Model trained on American sign language Dataset to predict the letters or numbers from a picture of a hand doing a certain sign.
+#### A Machine Learning Model trained on American sign language Dataset to predict the letters or numbers from a picture of a hand doing a certain sign.
 
 Want a Fast Track look and see if/how this works?
 

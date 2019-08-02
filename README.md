@@ -78,7 +78,7 @@
     You can get the training data from this [Google Drive link](https://drive.google.com/open?id=1apmXyY8OQx68b4-2G9Mttgrml7bldWfq)
 
 
-![GitHub contributors](https://img.shields.io/github/contributors/mareep-raljodid/SignLanguage_ML?style=for-the-badge)
+[![GitHub contributors](https://img.shields.io/github/contributors/mareep-raljodid/SignLanguage_ML?style=for-the-badge)] (https://github.com/mareep-raljodid)
 
 ##### Developers
 - [Rajdeep Bandopadhyay](https://github.com/mareep-raljodid)

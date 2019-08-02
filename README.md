@@ -88,7 +88,7 @@
         
        ![Here:](https://raw.githubusercontent.com/mareep-raljodid/SignLanguage_ML/master/photo.jpg)
         
-        photo.jpg should be predicted as R and,
+        photo.jpg (the picture above) should be predicted as R and,
         picture.jpg (file available) should be predicted as D.
     
     

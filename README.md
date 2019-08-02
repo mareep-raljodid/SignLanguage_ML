@@ -1,7 +1,7 @@
 # SignLanguage_ML
 
 [![made with python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org)
-[![modeled with tensorflow](https://www.gstatic.com/devrel-devsite/va3a0eb1ff00a004a87e2f93101f27917d794beecfd23556fc6d8627bba2ff3cf/tensorflow/images/lockup.svg)](https://www.tensorflow.org/)
+[![modeled with tensorflow](https://drive.google.com/uc?authuser=0&id=1Vfwy9Cb3KF_ATWPIeifcP_L286EUf0_3&export=download)](https://www.tensorflow.org/)
 
 
 A Machine Learning Model trained on American sign language Dataset to predict the letters or numbers from a picture of a hand doing a certain sign.
